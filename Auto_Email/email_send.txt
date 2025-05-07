@@ -1,0 +1,5 @@
+luong.q.de.2004@gmail.com
+
+Thông báo từ Python 2
+Đây là nội dung email gửi tự động bằng Python.
+Chúc bạn một ngày tốt lành!
